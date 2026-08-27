@@ -1,0 +1,6 @@
+{
+  "name": "Script Analyzer",
+  "description": "A professional, high-performance web tool to analyze scripts, count statistics, estimate reading/speaking times, and clean formatting instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
